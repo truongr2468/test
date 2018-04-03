@@ -21,5 +21,4 @@ Here is a ranked list of the best characters in *Hamilton* the musical:
 
 ![NO CAPES](https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Edna_Mode_promotional_image.jpg/220px-Edna_Mode_promotional_image.jpg)
 
-https://www.youtube.com/watch?v=425M4M3Opkk - automatic!
-[A Movie That Must Be Watched] (https://www.youtube.com/watch?v=425M4M3Opkk)
+[A Movie That Must Be Watched](https://www.youtube.com/watch?v=425M4M3Opkk)
