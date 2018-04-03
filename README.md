@@ -10,4 +10,4 @@ Remember despite our estrangement, I'm your man.\
 You'll be back, soon you'll see.\
 You'll remember you belong to me.\
 You'll be back, time will tell.\
-You'll remember that I served you well.\
+You'll remember that I served you well.
